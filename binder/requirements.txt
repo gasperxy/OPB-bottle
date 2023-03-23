@@ -1,2 +1,2 @@
 jupyter-server-proxy
-psycopg2
+psycopg2-binar
